@@ -103,13 +103,25 @@ p{
     display: flex;
     padding-top: 50px;
 }
-.advantades__block:nth-child(2) img{
-    order: 1;
-}
-.advantades__block:nth-child(2) .advantades__description{
+.advantades__description2{
     padding-left: 0;
     padding-right: 80px;
 }
+.advantades__description2 h3{
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #0F4C92;
+}
+.advantades__description2 data{
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 20px;
+}
+.advantades__description2 p{
+    font-size: 18px;
+    color: #1b1b1b;
+    margin-top: 40px;
 .advantades__block img{
     width: 585px;
     height: 580px;
